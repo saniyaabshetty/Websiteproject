@@ -1,8 +1,3 @@
-/**
- * v0 by Vercel.
- * @see https://v0.dev/t/FsoV5Do6ZDg
- * Documentation: https://v0.dev/docs#integrating-generated-code-into-your-nextjs-app
- */
 export default function Loading() {
     return (
         <div className="flex flex-col items-center justify-center h-[20vh]">

@@ -1,10 +1,4 @@
 "use client";
-/**
- * v0 by Vercel.
- * @see https://v0.dev/t/ztnXwJH6MxQ
- * Documentation: https://v0.dev/docs#integrating-generated-code-into-your-nextjs-app
- */
-
 export default function Component() {
   return (
     <div className="w-full max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
